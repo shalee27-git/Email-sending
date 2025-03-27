@@ -132,5 +132,5 @@ EMAIL_PORT = 587  # Use 465 for SSL, 587 for TLS
 EMAIL_USE_TLS = True  # Set to True if using port 587
 EMAIL_USE_SSL = False  # Set to True if using port 465
 EMAIL_HOST_USER = 'srishyam4@gmail.com'  # Your email
-EMAIL_HOST_PASSWORD = 'otcnkujzfofgwhqu'  # Use App Password, NOT Gmail password!
+EMAIL_HOST_PASSWORD = ''  # Use App Password, NOT Gmail password!
 
